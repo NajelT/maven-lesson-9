@@ -20,6 +20,7 @@ public class App
 
         List<String> list2 = new LinkedList<>();
         list2.add("list3");
+        list2.add("list4");
 
         System.out.println(list1);
     }
